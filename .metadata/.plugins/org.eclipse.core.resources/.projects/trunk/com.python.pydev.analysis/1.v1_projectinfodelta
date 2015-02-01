@@ -1,0 +1,11 @@
+INSTUPmqtest.fct.aio.aiooperationtab
+C:\Users\yunlonchen\Desktop\trunk\mqtest\fct\aio\aiooperationtab.py
+INFOS:&&1|1|2|0&&3|3|2|1&&3|4|2|1&&3|5|2|1&&3|6|2|1&&2|7|2|1&&1|8|2|0&&3|3|2|8&&3|4|2|8&&3|5|2|8&&3|6|2|8&&2|7|2|8
+runTest=7
+status=5
+priority=4
+mqtest.fct.aio.aiooperationtab=2
+SendTooLongMsgTest=8
+owner=3
+timeout=6
+SendMsgTimeOutTest=1

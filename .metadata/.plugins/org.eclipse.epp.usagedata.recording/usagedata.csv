@@ -1,0 +1,61 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1386818783821
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1386818783822
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1386818783823
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1386818783824
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1386818783825
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1386818783826
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1386818783829
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1386818783829
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1386818783830
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1386818783831
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1386818783832
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1386818783833
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1386818783833
+started,bundle,com.android.ide.eclipse.adt,20.0.3.v201208082019-427395,"com.android.ide.eclipse.adt",1386818783833
+started,bundle,com.android.ide.eclipse.base,20.0.3.v201208082019-427395,"com.android.ide.eclipse.base",1386818783834
+started,bundle,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms",1386818783834
+os,sysinfo,,,"win32",1386818783837
+arch,sysinfo,,,"x86",1386818783837
+ws,sysinfo,,,"win32",1386818783837
+locale,sysinfo,,,"zh_CN",1386818783837
+processors,sysinfo,,,"4",1386818783837
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1386818783837
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1386818783837
+java.specification.name,sysinfo,,,"Java Platform API Specification",1386818783837
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1386818783837
+java.specification.version,sysinfo,,,"1.6",1386818783837
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1386818783837
+java.version,sysinfo,,,"1.6.0_10-rc2",1386818783837
+java.vm.info,sysinfo,,,"mixed mode",1386818783837
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1386818783837
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1386818783837
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1386818783837
+java.vm.specification.version,sysinfo,,,"1.0",1386818783837
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1386818783837
+java.vm.version,sysinfo,,,"11.0-b15",1386818783837
+opened,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.ThreadView",1386818785312
+started,bundle,com.android.ide.eclipse.traceview,20.0.3.v201208082019-427395,"com.android.ide.eclipse.traceview",1386818785312
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.ThreadView",1386818785341
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1386818785628
+opened,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1386818785643
+started,bundle,org.python.pydev.core,2.7.1.2012100913,"org.python.pydev.core",1386818785857
+started,bundle,org.python.pydev.debug,2.7.1.2012100913,"org.python.pydev.debug",1386818785859
+started,bundle,com.python.pydev.analysis,2.7.1.2012100913,"com.python.pydev.analysis",1386818785891
+started,bundle,com.aptana.shared_core,2.7.1.2012100913,"com.aptana.shared_core",1386818785897
+started,bundle,org.python.pydev,2.7.1.2012100913,"org.python.pydev",1386818785915
+started,bundle,com.aptana.interactive_console,2.7.1.2012100913,"com.aptana.interactive_console",1386818785923
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1386818785941
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1386818786006
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.DeviceView",1386818786280
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386818800576
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386818816770
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.LogCatView",1386818817993
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.DeviceView",1386818818182
+activated,view,com.android.ide.eclipse.ddms,20.0.3.v201208082019-427395,"com.android.ide.eclipse.ddms.views.LogCatView",1386818818595
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386818822006
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386818825520
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386818825540
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386824427050
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201102081640,"org.eclipse.epp.usagedata.ui",1386824427065
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1386824427851

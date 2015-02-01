@@ -1,0 +1,464 @@
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.R31Enhance <clinit>
+INFO: Advanced SWT graphics functions enabled.
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.R31Enhance <clinit>
+INFO: Advanced SWT graphics functions enabled.
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.R31Enhance <clinit>
+INFO: Advanced SWT graphics functions enabled.
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.R31Enhance <clinit>
+INFO: Advanced SWT graphics functions enabled.
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1426134201}
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1426134201}
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1426134201}
+六月 12, 2014 9:57:26 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1426134201}
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 9:57:27 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {604052977}
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {604052977}
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {604052977}
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {604052977}
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 9:57:28 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1912687498}
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1912687498}
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1912687498}
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1912687498}
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 9:57:57 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {419504069}
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {419504069}
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {419504069}
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {419504069}
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:00:16 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {33639998}
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {33639998}
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {33639998}
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {33639998}
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:20:59 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1862346510}
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1862346510}
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1862346510}
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1862346510}
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:21:48 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {620835794}
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {620835794}
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {620835794}
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {620835794}
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 10:25:54 上午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1274997733}
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1274997733}
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1274997733}
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1274997733}
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 3:49:14 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1107206650}
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1107206650}
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1107206650}
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1107206650}
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:31:47 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1006704172}
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1006704172}
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1006704172}
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1006704172}
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:33:08 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {721498187}
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {721498187}
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {721498187}
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {721498187}
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:52:38 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1375647064}
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1375647064}
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1375647064}
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1375647064}
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:54:58 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {318839497}
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {318839497}
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {318839497}
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {318839497}
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:55:19 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1661034136}
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1661034136}
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1661034136}
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {1661034136}
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:56:01 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1560206857}
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1560206857}
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1560206857}
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1560206857}
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:58:06 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtDisplayServer <init>
+INFO: SWT Display Server: win32 v3,659
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1425976904}
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1425976904}
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1425976904}
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {-1425976904}
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 4:59:09 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {2114008166}
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {2114008166}
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {2114008166}
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.device.swt.SwtRendererImpl setProperty
+INFO: Using graphics context org.eclipse.swt.graphics.GC@GC {2114008166}
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: Trying to load Chart Java event handler class...
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.script.AbstractScriptHandler register
+INFO: A Chart Java event handler class [class org.eclipse.mat.impl.chart.StorageUnitRenderScript] has been loaded successfully.
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.render.EmptyWithoutAxes renderSeries
+INFO: org.eclipse.birt.chart.render.EmptyWithoutAxes: renderSeries() [1/2]
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
+六月 12, 2014 5:09:49 下午 org.eclipse.birt.chart.extension.render.Pie renderSeries
+INFO: {0}: renderSeries() [{1}/{2}]org.eclipse.birt.chart.extension.render.Pie22
